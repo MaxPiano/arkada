@@ -96,4 +96,5 @@ while game:
     clock.tick(40)
     pygame.display.update()
 
+
 pygame.quit()
